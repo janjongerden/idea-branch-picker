@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.janjongerden.ideabranchpicker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.janjongerden.ideabranchpicker.MyBundle
 
 class MyApplicationService {
 
